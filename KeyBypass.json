@@ -1,8 +1,10 @@
 {
   "keybypass" : {
   "status":"Discontinued",
-  "version":1.0,
+  "version":1,
   "title":"Discontinued",
-  "message":"Key Bypass has been discontinued; it was good while it lasted."
+  "message":"Key Bypass has been discontinued; it was good while it lasted.",
+  "button":"OK",
+  "url":"https://google.com/"
   }
 }
