@@ -1,7 +1,7 @@
 {
   "keybypass" : {
   "status":"Update",
-  "version":1,
+  "version":2,
   "title":"Update",
   "message":"Your Key Bypass version is outdated, click below to update.",
   "button":"Download",
