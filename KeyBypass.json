@@ -1,5 +1,6 @@
 {
   "keybypass" : {
+  "jump":true,
   "status":"Update",
   "version":1,
   "title":"Update",
