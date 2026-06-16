@@ -2,10 +2,10 @@
   "keybypass" : {
   "jump":true,
   "status":"Update",
-  "version":1,
+  "version":2,
   "title":"Update",
   "message":"Your Key Bypass version is outdated, click below to update.",
   "button":"Download",
-  "url":"https://whatsapp.com/channel/0029VauF7UpHwXb5CWF8Hy0R"
+  "url":"https://www.mediafire.com/file/i5nt7imx672k8rd/KeyBypass-2.0.apk/file"
   }
 }
